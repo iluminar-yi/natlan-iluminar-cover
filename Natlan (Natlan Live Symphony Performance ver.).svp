@@ -49,7 +49,7 @@
       "name": "Solo",
       "dispColor": "ff7db235",
       "dispOrder": 1,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -1632,7 +1632,9 @@
             "detune": 0,
             "instantMode": true,
             "attributes": {
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "systemAttributes": {
               "tF0Offset": 0,
@@ -1641,7 +1643,9 @@
               "dF0Left": 0,
               "dF0Right": 0,
               "dF0Vbr": 0,
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "pitchTakes": {
               "activeTakeId": 0,
@@ -5231,7 +5235,7 @@
       "name": "Saprano",
       "dispColor": "ff3bb26c",
       "dispOrder": 2,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -13732,7 +13736,7 @@
       "name": "Alto",
       "dispColor": "ff9153d4",
       "dispOrder": 3,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -23126,7 +23130,7 @@
       "name": "Tenor",
       "dispColor": "ffb853b3",
       "dispOrder": 4,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -28390,7 +28394,7 @@
             "musicalType": "singing",
             "onset": 258249600000,
             "duration": 2822400000,
-            "lyrics": "wa",
+            "lyrics": "wan",
             "phonemes": "",
             "accent": "",
             "pitch": 57,
@@ -33218,7 +33222,7 @@
       "name": "Bass",
       "dispColor": "ff6959d4",
       "dispOrder": 5,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -42235,7 +42239,7 @@
       "name": "Bass 2",
       "dispColor": "ff3fb235",
       "dispOrder": 6,
-      "renderEnabled": false,
+      "renderEnabled": true,
       "mixer": {
         "gainDecibel": 0,
         "pan": 0,
@@ -42679,13 +42683,13 @@
     }
   ],
   "renderConfig": {
-    "destination": "",
+    "destination": "external",
     "filename": "Natlan (Natlan Live Symphony Performance ver.)",
     "numChannels": 1,
     "aspirationFormat": "noAspiration",
-    "bitDepth": 16,
+    "bitDepth": 24,
     "sampleRate": 48000,
-    "exportMixDown": true,
+    "exportMixDown": false,
     "exportPitch": false
   }
 }
