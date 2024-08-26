@@ -51,7 +51,7 @@
       "dispOrder": 1,
       "renderEnabled": false,
       "mixer": {
-        "gainDecibel": 7.100000000000001,
+        "gainDecibel": 0,
         "pan": 0,
         "mute": false,
         "solo": false,
@@ -5234,7 +5234,7 @@
       "renderEnabled": false,
       "mixer": {
         "gainDecibel": 0,
-        "pan": -0.49,
+        "pan": 0,
         "mute": false,
         "solo": false,
         "display": true
@@ -6539,7 +6539,7 @@
             "musicalType": "singing",
             "onset": 77263200000,
             "duration": 352800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 77,
@@ -6582,7 +6582,7 @@
             "musicalType": "singing",
             "onset": 77616000000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 77,
@@ -9814,7 +9814,9 @@
             "detune": 0,
             "instantMode": true,
             "attributes": {
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "systemAttributes": {
               "tF0Offset": 0,
@@ -9823,7 +9825,9 @@
               "dF0Left": 0,
               "dF0Right": 0,
               "dF0Vbr": 0,
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "pitchTakes": {
               "activeTakeId": 0,
@@ -10753,7 +10757,7 @@
             "musicalType": "singing",
             "onset": 328104000000,
             "duration": 352800000,
-            "lyrics": "he",
+            "lyrics": "hey",
             "phonemes": "",
             "accent": "",
             "pitch": 73,
@@ -13731,7 +13735,7 @@
       "renderEnabled": false,
       "mixer": {
         "gainDecibel": 0,
-        "pan": -0.12,
+        "pan": 0,
         "mute": false,
         "solo": false,
         "display": true
@@ -15069,7 +15073,7 @@
             "musicalType": "singing",
             "onset": 77263200000,
             "duration": 352800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 70,
@@ -15112,7 +15116,7 @@
             "musicalType": "singing",
             "onset": 77616000000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 70,
@@ -16918,7 +16922,7 @@
             "musicalType": "singing",
             "onset": 206740800000,
             "duration": 705600000,
-            "lyrics": "shu",
+            "lyrics": "ji",
             "phonemes": "",
             "accent": "",
             "pitch": 66,
@@ -16961,7 +16965,7 @@
             "musicalType": "singing",
             "onset": 207446400000,
             "duration": 1411200000,
-            "lyrics": "zha",
+            "lyrics": "na",
             "phonemes": "",
             "accent": "",
             "pitch": 64,
@@ -19247,7 +19251,9 @@
             "detune": 0,
             "instantMode": true,
             "attributes": {
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "systemAttributes": {
               "tF0Offset": 0,
@@ -19256,7 +19262,9 @@
               "dF0Left": 0,
               "dF0Right": 0,
               "dF0Vbr": 0,
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "pitchTakes": {
               "activeTakeId": 0,
@@ -20143,7 +20151,7 @@
             "musicalType": "singing",
             "onset": 328104000000,
             "duration": 352800000,
-            "lyrics": "he",
+            "lyrics": "hey",
             "phonemes": "",
             "accent": "",
             "pitch": 66,
@@ -23120,8 +23128,8 @@
       "dispOrder": 4,
       "renderEnabled": false,
       "mixer": {
-        "gainDecibel": 4.900000000000002,
-        "pan": 0.22,
+        "gainDecibel": 0,
+        "pan": 0,
         "mute": false,
         "solo": false,
         "display": true
@@ -25071,7 +25079,7 @@
             "musicalType": "singing",
             "onset": 77263200000,
             "duration": 352800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 65,
@@ -25114,7 +25122,7 @@
             "musicalType": "singing",
             "onset": 77616000000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 65,
@@ -25587,7 +25595,7 @@
             "musicalType": "singing",
             "onset": 83966400000,
             "duration": 705600000,
-            "lyrics": "la",
+            "lyrics": "a",
             "phonemes": "",
             "accent": "",
             "pitch": 61,
@@ -26877,7 +26885,7 @@
             "musicalType": "singing",
             "onset": 206740800000,
             "duration": 705600000,
-            "lyrics": "shu",
+            "lyrics": "ji",
             "phonemes": "",
             "accent": "",
             "pitch": 61,
@@ -26920,7 +26928,7 @@
             "musicalType": "singing",
             "onset": 207446400000,
             "duration": 1411200000,
-            "lyrics": "zha",
+            "lyrics": "na",
             "phonemes": "",
             "accent": "",
             "pitch": 59,
@@ -28985,7 +28993,7 @@
             "onset": 289296000000,
             "duration": 2116800000,
             "lyrics": "nim",
-            "phonemes": "",
+            "phonemes": "n iy m",
             "accent": "",
             "pitch": 61,
             "detune": 0,
@@ -29113,7 +29121,7 @@
             "musicalType": "singing",
             "onset": 294940800000,
             "duration": 2116800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 57,
@@ -29156,7 +29164,7 @@
             "musicalType": "singing",
             "onset": 297057600000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 57,
@@ -29292,7 +29300,9 @@
             "detune": 0,
             "instantMode": true,
             "attributes": {
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "systemAttributes": {
               "tF0Offset": 0,
@@ -29301,7 +29311,9 @@
               "dF0Left": 0,
               "dF0Right": 0,
               "dF0Vbr": 0,
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "pitchTakes": {
               "activeTakeId": 0,
@@ -30231,7 +30243,7 @@
             "musicalType": "singing",
             "onset": 328104000000,
             "duration": 352800000,
-            "lyrics": "he",
+            "lyrics": "hey",
             "phonemes": "",
             "accent": "",
             "pitch": 61,
@@ -33208,8 +33220,8 @@
       "dispOrder": 5,
       "renderEnabled": false,
       "mixer": {
-        "gainDecibel": 5.700000000000003,
-        "pan": 0.6200000000000001,
+        "gainDecibel": 0,
+        "pan": 0,
         "mute": false,
         "solo": false,
         "display": true
@@ -34987,7 +34999,7 @@
             "musicalType": "singing",
             "onset": 77263200000,
             "duration": 352800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 58,
@@ -35030,7 +35042,7 @@
             "musicalType": "singing",
             "onset": 77616000000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 58,
@@ -36664,7 +36676,7 @@
             "musicalType": "singing",
             "onset": 206740800000,
             "duration": 705600000,
-            "lyrics": "shu",
+            "lyrics": "ji",
             "phonemes": "",
             "accent": "",
             "pitch": 61,
@@ -36707,7 +36719,7 @@
             "musicalType": "singing",
             "onset": 207446400000,
             "duration": 1411200000,
-            "lyrics": "zha",
+            "lyrics": "na",
             "phonemes": "",
             "accent": "",
             "pitch": 56,
@@ -38126,7 +38138,7 @@
             "musicalType": "singing",
             "onset": 294940800000,
             "duration": 2116800000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 50,
@@ -38169,7 +38181,7 @@
             "musicalType": "singing",
             "onset": 297057600000,
             "duration": 705600000,
-            "lyrics": "le",
+            "lyrics": "lei",
             "phonemes": "",
             "accent": "",
             "pitch": 50,
@@ -38305,7 +38317,9 @@
             "detune": 0,
             "instantMode": true,
             "attributes": {
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "systemAttributes": {
               "tF0Offset": 0,
@@ -38314,7 +38328,9 @@
               "dF0Left": 0,
               "dF0Right": 0,
               "dF0Vbr": 0,
-              "evenSyllableDuration": true
+              "evenSyllableDuration": true,
+              "languageOverride": "mandarin",
+              "phonesetOverride": "xsampa"
             },
             "pitchTakes": {
               "activeTakeId": 0,
@@ -39244,7 +39260,7 @@
             "musicalType": "singing",
             "onset": 328104000000,
             "duration": 352800000,
-            "lyrics": "he",
+            "lyrics": "hey",
             "phonemes": "",
             "accent": "",
             "pitch": 57,
@@ -42221,7 +42237,7 @@
       "dispOrder": 6,
       "renderEnabled": false,
       "mixer": {
-        "gainDecibel": 6.5,
+        "gainDecibel": 0,
         "pan": 0,
         "mute": false,
         "solo": false,
