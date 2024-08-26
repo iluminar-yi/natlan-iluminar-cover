@@ -9896,7 +9896,7 @@
             "lyrics": "za",
             "phonemes": "",
             "accent": "",
-            "pitch": 68,
+            "pitch": 76,
             "detune": 0,
             "instantMode": true,
             "attributes": {
@@ -11053,7 +11053,7 @@
           {
             "musicalType": "singing",
             "onset": 333043200000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "zi",
             "phonemes": "",
             "accent": "",
@@ -18684,7 +18684,7 @@
             "lyrics": "mm",
             "phonemes": "",
             "accent": "",
-            "pitch": 57,
+            "pitch": 64,
             "detune": 0,
             "instantMode": true,
             "attributes": {
@@ -20443,7 +20443,7 @@
           {
             "musicalType": "singing",
             "onset": 333043200000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "zi",
             "phonemes": "",
             "accent": "",
@@ -28209,7 +28209,7 @@
           {
             "musicalType": "singing",
             "onset": 252604800000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "ni",
             "phonemes": "",
             "accent": "",
@@ -28338,7 +28338,7 @@
           {
             "musicalType": "singing",
             "onset": 258249600000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "wa",
             "phonemes": "",
             "accent": "",
@@ -28467,7 +28467,7 @@
           {
             "musicalType": "singing",
             "onset": 263894400000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "ni",
             "phonemes": "",
             "accent": "",
@@ -28729,7 +28729,7 @@
             "lyrics": "mm",
             "phonemes": "",
             "accent": "",
-            "pitch": 64,
+            "pitch": 57,
             "detune": 0,
             "instantMode": true,
             "attributes": {
@@ -30531,7 +30531,7 @@
           {
             "musicalType": "singing",
             "onset": 333043200000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "zi",
             "phonemes": "",
             "accent": "",
@@ -39544,7 +39544,7 @@
           {
             "musicalType": "singing",
             "onset": 333043200000,
-            "duration": 1411200000,
+            "duration": 2822400000,
             "lyrics": "zi",
             "phonemes": "",
             "accent": "",
@@ -42225,7 +42225,7 @@
         "notes": [
           {
             "musicalType": "singing",
-            "onset": 328104000000,
+            "onset": 326692800000,
             "duration": 4939200000,
             "lyrics": "ah",
             "phonemes": "",
@@ -42268,8 +42268,8 @@
           },
           {
             "musicalType": "singing",
-            "onset": 336571200000,
-            "duration": 3528000000,
+            "onset": 335865600000,
+            "duration": 4233600000,
             "lyrics": "ah",
             "phonemes": "",
             "accent": "",
@@ -42441,8 +42441,94 @@
           {
             "musicalType": "singing",
             "onset": 345038400000,
-            "duration": 2116800000,
-            "lyrics": "ah",
+            "duration": 352800000,
+            "lyrics": "ma",
+            "phonemes": "",
+            "accent": "",
+            "pitch": 55,
+            "detune": 0,
+            "instantMode": true,
+            "attributes": {
+              "evenSyllableDuration": true
+            },
+            "systemAttributes": {
+              "tF0Offset": 0,
+              "tF0Left": 0.1052631586790085,
+              "tF0Right": 0.1052631586790085,
+              "dF0Left": 0,
+              "dF0Right": 0,
+              "dF0Vbr": 0,
+              "evenSyllableDuration": true
+            },
+            "pitchTakes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "expr": 0,
+                  "liked": false
+                }
+              ]
+            },
+            "timbreTakes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "expr": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          {
+            "musicalType": "singing",
+            "onset": 345391200000,
+            "duration": 352800000,
+            "lyrics": "ra",
+            "phonemes": "",
+            "accent": "",
+            "pitch": 55,
+            "detune": 0,
+            "instantMode": true,
+            "attributes": {
+              "evenSyllableDuration": true
+            },
+            "systemAttributes": {
+              "tF0Offset": 0,
+              "tF0Left": 0.1052631586790085,
+              "tF0Right": 0.1052631586790085,
+              "dF0Left": 0,
+              "dF0Right": 0,
+              "dF0Vbr": 0,
+              "evenSyllableDuration": true
+            },
+            "pitchTakes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "expr": 0,
+                  "liked": false
+                }
+              ]
+            },
+            "timbreTakes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "expr": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          {
+            "musicalType": "singing",
+            "onset": 345744000000,
+            "duration": 705600000,
+            "lyrics": "te",
             "phonemes": "",
             "accent": "",
             "pitch": 55,
